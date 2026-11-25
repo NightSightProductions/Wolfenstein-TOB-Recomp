@@ -1,0 +1,2 @@
+# Guest functions in WolfOldBlood_x64.exe (unwrapped) replaced by native code.
+# Each name is a void N_x(CPU *c); see src/native_wolf.c and framework/runtime/native.c.
